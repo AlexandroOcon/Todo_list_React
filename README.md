@@ -1,2 +1,2 @@
 # Todo_list_React
-Mi primer todo list de react
+Mi primer todo list de react tenia expectativas de que fuera un poco mas dificil pero no tuve mas que dificultades al intentar ejecutar el npm pero solo fue es lo demas fue muy facil de hacer visualmente me gusto y se ejecuta muy rapido tambien algo que me gusta de react es que puedo editar mientras el codigo esta ejecutandose y se realizan los cambios al instante me ayuda mucho cuando quiero realizar cambios ya que puedo visualizarlo si da error y eso es todo espero y les sirva mi proyecto.
